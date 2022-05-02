@@ -10,8 +10,7 @@
   --primary-fill-color: #AFB1B8;
   --hero-bc-color:#C4C4C4;
   --secondary-bc-color: #2f303a;
-  --typical-gap: 30px;
-  
+  --typical-gap: 30px;  
 }
 
 body {
@@ -784,7 +783,7 @@ img {
 
 .footer-input::placeholder {
   font-size: 16px;
-  line-height: 1,25;
+  line-height: 1.25;
   letter-spacing: 0.03em;
 
   color: rgba(255, 255, 255, 0.6);
