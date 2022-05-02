@@ -1031,7 +1031,7 @@ img {
   width: 16px;
   height: 15px;
  
-  border: 2px solid var(--title-text-color);
+  border:2px solid var(--title-text-color);
   border-radius: 2px;
    
   display: flex;
@@ -1040,6 +1040,13 @@ img {
 
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
+/* .modal-privacy:hover .check-wrap{
+ border-color: var(--title-text-color);
+} */
+
+
+
 
 .check-wrap{
   margin-right: 8px;
